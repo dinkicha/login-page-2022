@@ -15,6 +15,8 @@ This is a login/register page. I build this project because I wanted to challeng
 ![secondBrowserTab](https://user-images.githubusercontent.com/51996162/198887377-3cbda068-60fb-4285-b817-13698ce11f11.png) <br>
 • Register Forum <br>
 ![RegisterForum](https://user-images.githubusercontent.com/51996162/198887474-791051b4-ef9a-4c2e-954e-10def423a0cc.png)
+# Thank you for your time!
+• If you want to spend a little more time with me you can check my code!
 
 # Connect with me:
 [LinkedIn](https://www.linkedin.com/in/gospodin-gospodinov-853b3a23b/) <br>
