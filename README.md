@@ -16,7 +16,9 @@ This is a login/register page. I build this project because I wanted to challeng
 • Register Forum <br>
 ![RegisterForum](https://user-images.githubusercontent.com/51996162/198887474-791051b4-ef9a-4c2e-954e-10def423a0cc.png)
 # Thank you for your time!
-• If you want to spend a little more time with me you can check my code!
+• If you want to spend a little more time with me you can check my code! <br>
+• If you also want to see the live project and not only on photos contact me on the links below!
+
 
 # Connect with me:
 [LinkedIn](https://www.linkedin.com/in/gospodin-gospodinov-853b3a23b/) <br>
