@@ -9,7 +9,7 @@ This is a login/register page. I build this project because I wanted to challeng
 
 • Alert when the links is clicked <br>
 ![image](https://user-images.githubusercontent.com/51996162/198887161-95624e46-0f48-411f-a9ba-04d2f5e289f8.png) <br>
- ⬆️ This pops up when the forgotten password links is clicked ⬆️ <br>
+ ⬆️ This alert pops up when the forgotten password links is clicked ⬆️ <br>
  
  • Browser tabs - Login <br>
 ![firstBrowserTab](https://user-images.githubusercontent.com/51996162/198887355-987a83a8-0a5e-4cb2-972f-9bbfad37c830.png) <br>
